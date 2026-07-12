@@ -1,4 +1,3 @@
-<img width="486" height="411" alt="images (1)" src="https://github.com/user-attachments/assets/fd4fb9e1-bc9c-4977-bb5d-394f5b0988be" />
 # Day 1 — DevOps Introduction & Linux Fundamentals
 file:///C:/Users/pc6/Downloads/linux-architecture-diagram.svg
 > Built from your handwritten Day 1 notes (DevOps intro + Linux intro), cleaned up, corrected, and expanded with diagrams and a few "try it yourself" commands.
@@ -176,7 +175,10 @@ Combine GNU's tools with Linux's kernel and you get a complete, free operating s
 ### 2.8 Linux Architecture
 
 Linux is organized in **layers**, where each layer only talks to the layer directly next to it — you (the user) interact from the outside in.
-[Linux Architecture Diagram] <img width="486" height="411" alt="images (1)" src="https://github.com/user-attachments/assets/29e15c31-fb5f-4e8b-84ce-61415b74f947" />
+
+[Linux Architecture Diagram]
+
+<img width="486" height="411" alt="images (1)" src="https://github.com/user-attachments/assets/29e15c31-fb5f-4e8b-84ce-61415b74f947" />
 
 | Layer | What it is | Analogy |
 |---|---|---|
