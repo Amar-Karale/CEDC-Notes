@@ -22,6 +22,8 @@
 
 ## 1. What is CI/CD?
 
+<img width="2050" height="480" alt="image" src="https://github.com/user-attachments/assets/250f916c-95b0-491b-93c8-efbf47e7f5d8" />
+
 **CI/CD** stands for **Continuous Integration / Continuous Delivery / Continuous Deployment**. It is a *process* — a set of automated steps — that takes code from a developer's laptop all the way to a running application, without manual work, error steps in between.
 
 Think of it like a factory assembly line for software:
